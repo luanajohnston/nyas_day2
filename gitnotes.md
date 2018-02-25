@@ -13,6 +13,18 @@ this is `inline code`
 $$f(x) = x^2$$
 
 * `git init`: initializes repository
+* `git status`: tells us status of repo
+* `git add`: adds files to be tracked
+* `git commit`: dedicated myself to a version
+
+---
+
+### Tracking Changes
+
+
+Now what...
+
+Hi again.
 
 
 
